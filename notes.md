@@ -1,7 +1,6 @@
-# Practice Dataset — "UrbanCart" (fictional ecommerce store)
+# "UrbanCart" (ecommerce store)
 
-Load these 5 CSVs into Postgres / MySQL / SQLite / DB Fiddle. Table names should
-match the file names (customers, products, orders, order_items, payments).
+Load these 5 CSVs(customers, products, orders, order_items, payments).
 
 ## Tables
 
@@ -18,7 +17,7 @@ match the file names (customers, products, orders, order_items, payments).
 - category (Electronics, Home & Kitchen, Apparel, Beauty, Sports & Outdoors, Toys, Books)
 - cost, price
 
-**orders** (1277 rows, includes 12 intentional duplicate rows)
+**orders** (1277 rows, includes 12 duplicate rows)
 - order_id → NOT unique as a row-key right now, 12 rows are exact duplicates
   (simulates a double-insert ETL bug — dedupe before analysis, e.g. with
   ROW_NUMBER() OVER (PARTITION BY order_id ...))
