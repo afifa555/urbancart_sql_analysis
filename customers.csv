@@ -1,0 +1,221 @@
+customer_id,signup_date,email,city
+1,2023-04-25,,LA
+2,2023-09-08,customer2@mail.com,Boston
+3,2023-04-15,customer3@mail.com,Miami
+4,2023-03-31,customer4@mail.com,New York
+5,2023-01-31,customer5@mail.com,Los Angeles
+6,2024-06-01,customer6@mail.com,Miami
+7,2023-07-23,customer7@mail.com,Boston
+8,2024-03-05,customer8@mail.com,Seattle
+9,2023-10-12,customer9@mail.com,New York
+10,2023-06-13,customer10@mail.com,Chicago
+11,2023-10-12,customer11@mail.com,Chicago
+12,2023-04-15,customer12@mail.com,new york
+13,2024-01-03,customer13@mail.com,Seattle
+14,2023-09-28,customer14@mail.com,Boston
+15,2024-04-15,customer15@mail.com,Houston
+16,2023-03-22,customer16@mail.com,Austin
+17,2024-01-06,customer17@mail.com,Boston
+18,2023-03-13,,Los Angeles
+19,2023-10-24,customer19@mail.com,Los Angeles
+20,2023-04-14,customer20@mail.com,Chicago 
+21,2024-01-09,customer21@mail.com,Chicago
+22,2023-08-03,customer22@mail.com,Boston
+23,2023-03-15,customer23@mail.com,NY
+24,2023-09-08,customer24@mail.com,Houston
+25,2023-10-04,customer25@mail.com,Austin
+26,2023-08-13,customer26@mail.com,New York
+27,2023-08-23,customer27@mail.com,Chicago
+28,2024-02-15,customer28@mail.com,Los Angeles
+29,2023-11-19,customer29@mail.com,Chicago 
+30,2024-02-10,customer30@mail.com,Austin
+31,2024-04-14,customer31@mail.com,NY
+32,2023-09-10,customer32@mail.com,Miami
+33,2023-09-27,customer33@mail.com,Houston
+34,2024-02-13,customer34@mail.com,NY
+35,2024-06-05,customer35@mail.com,New York
+36,2023-04-23,customer36@mail.com,NY
+37,2024-03-08,customer37@mail.com,Houston
+38,2024-01-26,customer38@mail.com,Chicago 
+39,2024-06-25,customer39@mail.com,Miami
+40,2023-01-12,customer40@mail.com,new york
+41,2023-10-01,customer41@mail.com,Chicago
+42,2023-04-25,customer42@mail.com,NY
+43,2024-04-09,,Boston
+44,2023-09-27,customer44@mail.com,NY
+45,2024-06-03,customer45@mail.com,Austin
+46,2023-11-02,customer46@mail.com,Miami
+47,2023-07-23,customer47@mail.com,NY
+48,2024-06-27,customer48@mail.com,Seattle
+49,2023-11-28,customer49@mail.com,new york
+50,2024-01-07,customer50@mail.com,LA
+51,2023-09-03,,Seattle
+52,2023-03-22,customer52@mail.com,Chicago 
+53,2023-03-12,customer53@mail.com,Miami
+54,2023-05-09,customer54@mail.com,Chicago 
+55,2023-06-19,customer55@mail.com,Seattle
+56,2024-03-09,customer56@mail.com,Miami
+57,2023-07-25,customer57@mail.com,Houston
+58,2024-01-18,customer58@mail.com,Miami
+59,2024-04-07,customer59@mail.com,Los Angeles
+60,2023-03-07,customer60@mail.com,Seattle
+61,2023-08-24,customer61@mail.com,New York
+62,2023-03-14,customer62@mail.com,New York
+63,2023-08-23,customer63@mail.com,New York
+64,2023-12-05,customer64@mail.com,Los Angeles
+65,2023-10-13,customer65@mail.com,Los Angeles
+66,2023-05-16,customer66@mail.com,Seattle
+67,2024-04-29,customer67@mail.com,Chicago 
+68,2024-02-21,customer68@mail.com,new york
+69,2024-03-17,customer69@mail.com,Houston
+70,2024-04-23,customer70@mail.com,New York
+71,2023-04-11,customer71@mail.com,Boston
+72,2023-12-14,customer72@mail.com,new york
+73,2023-09-12,customer73@mail.com,Miami
+74,2024-04-04,customer74@mail.com,NY
+75,2023-10-13,customer75@mail.com,new york
+76,2024-03-29,customer76@mail.com,Miami
+77,2023-04-11,,Miami
+78,2023-01-16,customer78@mail.com,Los Angeles
+79,2023-06-20,customer79@mail.com,Chicago 
+80,2023-08-07,customer80@mail.com,New York
+81,2023-06-18,customer81@mail.com,Houston
+82,2023-09-29,customer82@mail.com,Chicago 
+83,2023-10-20,customer83@mail.com,Boston
+84,2024-05-13,customer84@mail.com,LA
+85,2023-08-11,customer85@mail.com,Seattle
+86,2023-03-04,customer86@mail.com,New York
+87,2023-02-21,customer87@mail.com,Miami
+88,2024-06-27,customer88@mail.com,Miami
+89,2023-03-24,customer89@mail.com,new york
+90,2023-03-11,customer90@mail.com,Los Angeles
+91,2024-02-18,customer91@mail.com,Seattle
+92,2023-09-10,customer92@mail.com,New York
+93,2023-03-25,customer93@mail.com,Seattle
+94,2024-06-19,customer94@mail.com,LA
+95,2023-07-29,customer95@mail.com,Chicago
+96,2023-09-02,customer96@mail.com,NY
+97,2023-11-04,customer97@mail.com,new york
+98,2023-01-10,customer98@mail.com,Seattle
+99,2023-04-13,customer99@mail.com,Los Angeles
+100,2024-06-02,customer100@mail.com,Chicago
+101,2023-03-12,customer101@mail.com,Chicago
+102,2023-10-19,customer102@mail.com,Miami
+103,2023-11-06,customer103@mail.com,Austin
+104,2024-06-25,,Miami
+105,2023-11-03,customer105@mail.com,new york
+106,2023-05-18,customer106@mail.com,new york
+107,2023-06-09,customer107@mail.com,Seattle
+108,2023-08-04,customer108@mail.com,Los Angeles
+109,2023-09-28,customer109@mail.com,LA
+110,2023-02-22,customer110@mail.com,Houston
+111,2023-10-11,,Chicago
+112,2023-05-14,customer112@mail.com,LA
+113,2023-06-15,customer113@mail.com,Miami
+114,2024-03-13,customer114@mail.com,new york
+115,2023-03-19,customer115@mail.com,Boston
+116,2023-06-02,customer116@mail.com,Chicago
+117,2023-06-01,customer117@mail.com,New York
+118,2023-11-12,customer118@mail.com,New York
+119,2024-01-02,customer119@mail.com,Los Angeles
+120,2023-04-16,customer120@mail.com,Miami
+121,2024-02-21,customer121@mail.com,Boston
+122,2023-06-08,customer122@mail.com,Los Angeles
+123,2023-06-16,customer123@mail.com,NY
+124,2024-02-27,,Boston
+125,2023-12-07,customer125@mail.com,Houston
+126,2023-09-12,customer126@mail.com,Boston
+127,2023-04-21,customer127@mail.com,New York
+128,2024-04-26,customer128@mail.com,Chicago 
+129,2023-12-25,customer129@mail.com,Los Angeles
+130,2023-08-17,,Los Angeles
+131,2024-02-13,customer131@mail.com,new york
+132,2023-10-13,customer132@mail.com,Miami
+133,2024-02-14,customer133@mail.com,Miami
+134,2023-12-06,customer134@mail.com,new york
+135,2023-09-25,customer135@mail.com,LA
+136,2023-02-09,customer136@mail.com,Houston
+137,2023-12-20,customer137@mail.com,Chicago
+138,2024-03-22,customer138@mail.com,Miami
+139,2023-04-29,customer139@mail.com,Seattle
+140,2023-07-14,customer140@mail.com,Boston
+141,2024-03-22,,Miami
+142,2023-07-21,customer142@mail.com,new york
+143,2023-12-05,customer143@mail.com,Austin
+144,2023-05-08,customer144@mail.com,LA
+145,2024-06-03,customer145@mail.com,Houston
+146,2023-12-01,customer146@mail.com,LA
+147,2023-05-11,customer147@mail.com,Austin
+148,2024-01-24,customer148@mail.com,NY
+149,2023-11-05,customer149@mail.com,New York
+150,2023-11-08,customer150@mail.com,Houston
+151,2023-11-26,customer151@mail.com,Chicago 
+152,2023-08-07,customer152@mail.com,Boston
+153,2023-06-23,customer153@mail.com,LA
+154,2024-06-11,customer154@mail.com,Seattle
+155,2023-12-10,customer155@mail.com,Los Angeles
+156,2023-11-14,customer156@mail.com,Los Angeles
+157,2023-05-31,,Los Angeles
+158,2024-05-01,customer158@mail.com,new york
+159,2024-04-11,customer159@mail.com,Austin
+160,2023-07-19,customer160@mail.com,Houston
+161,2024-05-21,customer161@mail.com,NY
+162,2023-01-06,customer162@mail.com,new york
+163,2024-03-11,customer163@mail.com,Boston
+164,2024-06-14,customer164@mail.com,Miami
+165,2023-09-13,customer165@mail.com,new york
+166,2024-04-12,customer166@mail.com,Chicago 
+167,2024-06-27,customer167@mail.com,Seattle
+168,2023-11-21,customer168@mail.com,Chicago 
+169,2024-05-31,customer169@mail.com,Miami
+170,2024-04-01,customer170@mail.com,Boston
+171,2024-05-01,customer171@mail.com,Los Angeles
+172,2023-10-11,customer172@mail.com,Miami
+173,2024-05-11,customer173@mail.com,LA
+174,2024-03-26,customer174@mail.com,LA
+175,2023-08-29,customer175@mail.com,Chicago
+176,2023-03-24,customer176@mail.com,Los Angeles
+177,2024-01-28,customer177@mail.com,Boston
+178,2023-08-08,customer178@mail.com,Houston
+179,2023-12-05,customer179@mail.com,Houston
+180,2023-03-05,customer180@mail.com,Houston
+181,2024-02-03,customer181@mail.com,Seattle
+182,2023-01-21,customer182@mail.com,Seattle
+183,2024-01-25,customer183@mail.com,Chicago
+184,2023-11-02,customer184@mail.com,Houston
+185,2023-08-14,customer185@mail.com,LA
+186,2024-03-22,customer186@mail.com,Houston
+187,2023-12-11,customer187@mail.com,Houston
+188,2023-06-19,customer188@mail.com,NY
+189,2023-01-28,customer189@mail.com,Seattle
+190,2023-01-28,customer190@mail.com,Houston
+191,2023-05-19,customer191@mail.com,NY
+192,2023-02-21,customer192@mail.com,Chicago
+193,2023-08-05,customer193@mail.com,Chicago
+194,2024-01-24,customer194@mail.com,Houston
+195,2023-09-16,customer195@mail.com,Chicago 
+196,2023-01-20,customer196@mail.com,New York
+197,2023-12-25,customer197@mail.com,new york
+198,2023-02-11,customer198@mail.com,Los Angeles
+199,2023-07-24,customer199@mail.com,Seattle
+200,2023-06-06,customer200@mail.com,Chicago 
+201,2023-04-28,customer201@mail.com,Los Angeles
+202,2024-04-21,customer202@mail.com,Chicago
+203,2023-06-21,customer203@mail.com,Boston
+204,2023-04-28,customer204@mail.com,NY
+205,2023-11-15,customer205@mail.com,New York
+206,2023-11-16,customer206@mail.com,Houston
+207,2024-02-11,customer207@mail.com,Los Angeles
+208,2023-03-19,customer208@mail.com,Austin
+209,2023-09-06,customer209@mail.com,LA
+210,2023-05-04,customer210@mail.com,Seattle
+211,2023-02-12,customer211@mail.com,Houston
+212,2024-01-15,customer212@mail.com,Austin
+213,2023-12-16,,Houston
+214,2024-05-16,customer214@mail.com,Chicago
+215,2024-04-15,customer215@mail.com,Houston
+216,2023-06-30,customer216@mail.com,Austin
+217,2023-10-04,customer217@mail.com,Miami
+218,2024-05-10,customer218@mail.com,Boston
+219,2023-10-02,customer219@mail.com,Los Angeles
+220,2023-03-30,customer220@mail.com,Chicago 

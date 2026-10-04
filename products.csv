@@ -1,0 +1,46 @@
+product_id,product_name,category,cost,price
+1,Home Item 1,Home & Kitchen,68.64,139.1
+2,Apparel Item 2,Apparel,84.13,177.95
+3,Beauty Item 3,Beauty,140.13,364.95
+4,Toys Item 4,Toys,38.1,71.42
+5,Books Item 5,Books,117.01,159.77
+6,Toys Item 6,Toys,72.53,193.67
+7,Beauty Item 7,Beauty,59.75,137.16
+8,Books Item 8,Books,98.85,151.06
+9,Electronics Item 9,Electronics,21.56,59.25
+10,Apparel Item 10,Apparel,130.85,341.69
+11,Beauty Item 11,Beauty,17.66,47.08
+12,Electronics Item 12,Electronics,109.2,209.11
+13,Toys Item 13,Toys,145.58,205.59
+14,Books Item 14,Books,145.47,262.99
+15,Toys Item 15,Toys,61.43,87.26
+16,Apparel Item 16,Apparel,128.29,332.14
+17,Beauty Item 17,Beauty,143.26,320.93
+18,Books Item 18,Books,74.73,157.79
+19,Sports Item 19,Sports & Outdoors,13.06,29.34
+20,Apparel Item 20,Apparel,149.62,362.1
+21,Beauty Item 21,Beauty,146.82,358.32
+22,Toys Item 22,Toys,131.27,258.01
+23,Toys Item 23,Toys,47.02,63.17
+24,Apparel Item 24,Apparel,120.03,208.86
+25,Apparel Item 25,Apparel,66.31,110.49
+26,Beauty Item 26,Beauty,86.19,214.51
+27,Home Item 27,Home & Kitchen,28.74,63.64
+28,Beauty Item 28,Beauty,94.1,156.32
+29,Sports Item 29,Sports & Outdoors,24.04,47.88
+30,Apparel Item 30,Apparel,70.56,162.31
+31,Books Item 31,Books,71.39,123.61
+32,Sports Item 32,Sports & Outdoors,26.22,51.46
+33,Apparel Item 33,Apparel,148.18,259.13
+34,Beauty Item 34,Beauty,104.48,207.42
+35,Apparel Item 35,Apparel,32.28,60.59
+36,Beauty Item 36,Beauty,18.68,34.97
+37,Apparel Item 37,Apparel,87.5,244.04
+38,Apparel Item 38,Apparel,6.23,15.86
+39,Beauty Item 39,Beauty,43.35,93.15
+40,Toys Item 40,Toys,117.41,324.1
+41,Sports Item 41,Sports & Outdoors,112.54,286.89
+42,Apparel Item 42,Apparel,117.03,192.54
+43,Books Item 43,Books,54.79,123.55
+44,Sports Item 44,Sports & Outdoors,39.84,96.95
+45,Books Item 45,Books,99.9,255.49
